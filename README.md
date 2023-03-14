@@ -1,2 +1,2 @@
-# MyZettelkasten-
+# MyZettelkasten
 Notes
