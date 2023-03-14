@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "ddf868694cbb3db0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c134409666aab20e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/ОП 12.10.2022.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "301f472102001954",
+    "type": "split",
+    "children": [
+      {
+        "id": "c31bf80d25082953",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0921dcc6621a1c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c934c6d2a3f22b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "prog",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c0abe364267a086",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "right": {
+    "id": "c2e2ad0c8b0a8969",
+    "type": "split",
+    "children": [
+      {
+        "id": "894260bca1703775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d52ce774f07108a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/ОП 12.10.2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83019d6e38ce5030",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Base/ОП 12.10.2022.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bdf7313a32a701e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "15fbe634a2462155",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/ОП 12.10.2022.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "active": "c134409666aab20e",
+  "lastOpenFiles": [
+    "Base/00 Lections.md",
+    "Base/Мой Zettelkasten.md",
+    "Base/ОП 12.10.2022.md",
+    "Base/Парсер.md",
+    "Base/00 Programmering.md",
+    "Base/00 Git.md",
+    "Base/Работа по Gitflow.md",
+    "Base/ИСРПО 01.10.2022.md",
+    "Daily/00 Diary (Ежедневник).md",
+    "Base/Влияние на состояние.md"
+  ]
+}
