@@ -4,35 +4,308 @@
     "type": "split",
     "children": [
       {
-        "id": "c6b7fbeabaa25989",
+        "id": "3e45e3ccfd39021a",
         "type": "tabs",
+        "dimension": 74.61928934010153,
         "children": [
           {
-            "id": "7b8fc8dd27cd77fa",
+            "id": "80ecd55f857b90f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Как оформлять мутные задачи.md",
-                "mode": "preview",
+                "file": "Base/Персонаж ДнД - Гьютай.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2dfd3ef8a8dffed3",
+            "id": "0aca1931e808bd15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Base/Персонаж Днд - Махито.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91eef1378884c135",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Персонаж ДнД - Като (Комар тупой).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "37cf8d7d587abf35",
+        "type": "tabs",
+        "dimension": 25.380710659898476,
+        "children": [
+          {
+            "id": "2606632deae86c9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Мир ДнД - Королевство Ре-Эстиз (+ город).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50167f6bef080148",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Кирюин Рагё.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30361305e3e03e2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Ирантель, город-крепость.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3ce9bddcc993e7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Карн, деревня.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bb989b88f34d5f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Мир ДнД - 1 уровень Бездны.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c420ff6fc7c66052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Мир ДнД - Глобальный сюжет для игроков.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49cd4965a41a8eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Великая Гробница Назарик.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be2a8567960f3c2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Кёфуко.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c97c4483e0aeaf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Плеяды.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25acab7b0d418e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Аинз Оал Гоун.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "326981d950688511",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Альбедо.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b43d4501378d80a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Демиург.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3589b961e86666c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Шалтир Бладфоллен.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54b2c96d05b256a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Маре Белла Фиора.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b671775817bc1c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Аура Белла Фиора.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "def400e7373e6393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Кокид.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5fb275a4b26e74d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Энтома Василиса Дзета.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2620110f1e540fd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Клаим.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a42b588a49836ca0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Лес Тобб.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0212e260e2cae78c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Змей Запад.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "297abb3ce8770c7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Гигант Востока.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -77,12 +350,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "6789fdd4e478dc30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 254.5
   },
   "right": {
     "id": "c2e2ad0c8b0a8969",
@@ -98,7 +379,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Base/Персонаж ДнД - Като (Комар тупой).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +396,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Base/Персонаж ДнД - Като (Комар тупой).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +419,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Base/Персонаж ДнД - Като (Комар тупой).md"
               }
             }
           },
@@ -158,12 +439,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 209.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,29 +454,54 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2dfd3ef8a8dffed3",
+  "active": "91eef1378884c135",
   "lastOpenFiles": [
-    "Base/ОП 13.03.2023.md",
-    "Base/English Dictionary.md",
-    "Base/Deep Work.md",
-    "Base/Free writing.md",
-    "Base/Спать на полу.md",
-    "Base/Nebo. Удобный редактор для pdf.md",
-    "Base/C++ 06.03.23.md",
-    "Base/Контроль дел и состояний.md",
-    "Base/Progress Bar (Прогресс).md",
-    "Base/Как оформлять мутные задачи.md",
-    "Base/00 Еда.md",
-    "Base/00 Food.md",
-    "Base/Японская слива.md",
-    "Base/Пьеса Ворон.md",
-    "Base/Целеполагание.md",
-    "Base/optional.md",
-    "Base/Мой Zettelkasten.md",
-    "Base/00 Recips.md"
+    "Base/Аинз Оал Гоун.md",
+    "Base/Персонаж ДнД - Като (Комар тупой).md",
+    "Base/Персонаж ДнД - Гьютай (ваншот).md",
+    "Base/Великая Гробница Назарик.md",
+    "Base/Кёфуко.md",
+    "Base/Змей Запад.md",
+    "Base/Лес Тобб.md",
+    "Base/Гигант Востока.md",
+    "Base/Альбедо.md",
+    "Base/Демиург.md",
+    "Base/Клаим.md",
+    "Base/Энтома Василиса Дзета.md",
+    "Base/Кирюин Рагё.md",
+    "Base/Ирантель, город-крепость.md",
+    "Base/Плутон Аинзак.md",
+    "Base/Мир ДнД - 1 уровень Бездны.md",
+    "Base/Всадник апокалипсиса, Смерть.md",
+    "Base/9 этаж - Королевский люкс.md",
+    "Base/Плеяды.md",
+    "Base/Себас Тиан.md",
+    "Base/Кокид.md",
+    "Base/Момон.md",
+    "Base/Виктим.md",
+    "Base/Нигредо.md",
+    "Base/Аура Белла Фиора.md",
+    "Base/Маре Белла Фиора.md",
+    "Files/Гильдмастер.png",
+    "Files/Pasted image 20230729142450.png",
+    "Files/Pasted image 20230728122819.png",
+    "Files/Гаргантюа 2 1.png",
+    "Files/Гаргантюа 2.png",
+    "Files/Pasted image 20230728110533.png",
+    "Files/Pasted image 20230725220642.png",
+    "Files/kandinsky-download-1690307292229.png",
+    "Files/Pasted image 20230725204755.png",
+    "Files/Pasted image 20230725202825.png",
+    "Files/Principles.pdf",
+    "Files/Principles 1.pdf",
+    "Files/Values.pdf",
+    "Files/Как_формулировать_немутные_задачи.pdf",
+    "Files/9 Списков Вотякова - НГ Планирование - Сжатое 1.pdf",
+    "Files/9 Списков Вотякова - Новогоднее Планирование 1.pdf",
+    "Files/9 Списков Вотякова - НГ Планирование - Сжатое.pdf",
+    "Files/9 Списков Вотякова - Новогоднее Планирование.pdf"
   ]
 }
